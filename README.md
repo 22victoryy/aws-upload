@@ -1,2 +1,3 @@
 # aws-upload
-powershell scripts for Windows and Mac to upload files to AWS (The user's AWS credential is needed).
+PowerShell scripts for Windows and Mac to automate data upload to Amazon S3 Bucket(User credential requiered upon use).
+
