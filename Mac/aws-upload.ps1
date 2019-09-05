@@ -1,6 +1,7 @@
 # Prototype script to upload data to Amazon S3 Bucket (MAC OS X)
 # Please Install Powershell to use.
 # .NET ver. 4.5 + required.
+# This is a test
 
 # Param(
 #   [Parameter(Mandatory=$true)][string]$bucket,
